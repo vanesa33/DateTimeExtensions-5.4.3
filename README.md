@@ -3,3 +3,4 @@ Este proyecto es una combinación de varias operaciones de DateTime comunes en f
 #r "nuget: DateTimeExtensions, 5.4.3"
  Para los scripts de F # que admiten la sintaxis #r , cópielo en el código fuente para hacer referencia al paquete.
  
+https://www.nuget.org/packages/DateTimeExtensions/5.4.3
